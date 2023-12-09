@@ -1,5 +1,5 @@
 git init 
 touch README.md
 
-git add Readme.MD
-git commit -m"iNITIAL COMMIT"
+git add README.md
+git commit -m"initial commit"
